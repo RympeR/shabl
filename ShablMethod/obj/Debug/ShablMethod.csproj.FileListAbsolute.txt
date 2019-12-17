@@ -1,0 +1,7 @@
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\bin\Debug\ShablMethod.exe.config
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\bin\Debug\ShablMethod.exe
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\bin\Debug\ShablMethod.pdb
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\obj\Debug\ShablMethod.csprojAssemblyReference.cache
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\obj\Debug\ShablMethod.csproj.CoreCompileInputs.cache
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\obj\Debug\ShablMethod.exe
+C:\Users\Георгий Рашков\source\repos\ShablMethod\ShablMethod\obj\Debug\ShablMethod.pdb
